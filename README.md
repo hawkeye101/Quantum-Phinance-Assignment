@@ -1,4 +1,4 @@
-Quantum Phinance Assignment
+# Quantum Phinance Assignment
 
 NAME: ARVIND GANESH
 
@@ -201,7 +201,7 @@ is checked against max_interest_rate and decided accordingly.
     Total charges = 22.405
 
 
-# ALGORITHM
+## ALGORITHM
 1. Read the input data from input.txt
 2. Convert dates to usable format using written API. Specifically, use struct date
 3. Construct dateline, a timeline of dates in ascending order.
