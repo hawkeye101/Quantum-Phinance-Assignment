@@ -200,3 +200,11 @@ is checked against max_interest_rate and decided accordingly.
     
     Total charges = 22.405
 
+
+# ALGORITHM
+1. Read the input data from input.txt
+2. Convert dates to usable format using written API. Specifically, use struct date
+3. Construct dateline, a timeline of dates in ascending order.
+4. Compute charges for each period and each condition in the timeline if condition overlaps with that period.
+5. Compute total charges by adding charges of each condition.
+6. Write charges and total charges to output file.
