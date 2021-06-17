@@ -16,110 +16,110 @@ This is the solution to the assignment from Quantum Phinance Pvt Ltd.
   
         Start date TC1
   
-  No. of conditions TC1
+        No. of conditions TC1
   
-  Start_date condition 1 TC1
+        Start_date condition 1 TC1
   
-  End_date condition 1 TC1
+        End_date condition 1 TC1
   
-  Interest rate condition 1 TC1
+        Interest rate condition 1 TC1
   
-  Start_date condition 2 TC1
+        Start_date condition 2 TC1
   
-  End_date condition 2 TC1
+        End_date condition 2 TC1
   
-  Interest rate condition 2 TC1
+        Interest rate condition 2 TC1
   
-  .
+        .
   
-  .
+        .
   
-  .
+        .
   
-  Start_date condition n TC1
+        Start_date condition n TC1
   
-  End_date condition n TC1
+        End_date condition n TC1
   
-  Interest rate condition n TC1
+        Interest rate condition n TC1
   
-  Max_rate for particular period TC1
+        Max_rate for particular period TC1
   
-  Amount TC2
+        Amount TC2
   
-  Duration in years TC2
+        Duration in years TC2
   
-  Start date TC2
+        Start date TC2
   
-  No. of conditions TC2
+        No. of conditions TC2
   
-  Start_date condition 1 TC2
+        Start_date condition 1 TC2
   
-  End_date condition 1 TC2
+        End_date condition 1 TC2
   
-  Interest rate condition 1 TC2
+        Interest rate condition 1 TC2
   
-  Start_date condition 2 TC2
+        Start_date condition 2 TC2
   
-  End_date condition 2 TC2
+        End_date condition 2 TC2
   
-  Interest rate condition 2 TC2
+        Interest rate condition 2 TC2
   
-  .
+        .
   
-  .
+        .
   
-  .
+        .
   
-  Start_date condition n TC2
+        Start_date condition n TC2
   
-  End_date condition n TC2
+        End_date condition n TC2
   
-  Interest rate condition n TC2
+        Interest rate condition n TC2
   
-  Max_rate for particular period TC2
+        Max_rate for particular period TC2
   
-  .
+        .
   
-  .
+        .
   
-  .
+        .
 
 
 2. Output file is 'output.txt' in the following format:
 
-  Condition 1 charge TC1
+        Condition 1 charge TC1
   
-  Condition 2 charge TC1
+        Condition 2 charge TC1
   
-  .
+        .
   
-  .
+        .
   
-  .
+        .
   
-  Condition n charge TC1
+        Condition n charge TC1
   
-  Total charge TC1
+        Total charge TC1
   
-  Condition 1 charge TC2
+        Condition 1 charge TC2
   
-  Condition 2 charge TC2
+        Condition 2 charge TC2
   
-  .
+        .
   
-  .
+        .
   
-  .
+        .
   
-  Condition n charge TC2
+        Condition n charge TC2
   
-  Total charge TC2
+        Total charge TC2
   
-  .
+        .
   
-  .
+        .
   
-  .
+        .
   
   
 3. Currently program has run for two test cases. Check 'input.txt'.
