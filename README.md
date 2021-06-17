@@ -8,13 +8,13 @@ This is the solution to the assignment from Quantum Phinance Pvt Ltd.
 
 2. Data is input at 'input.txt' in the following format. All dates are in format like 1-Jun-20:
 
-  No. of test cases (TC)
+        No. of test cases (TC)
   
-  Amount TC1
+        Amount TC1
   
-  Duration in years TC1
+        Duration in years TC1
   
-  Start date TC1
+        Start date TC1
   
   No. of conditions TC1
   
