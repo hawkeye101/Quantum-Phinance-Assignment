@@ -1,9 +1,11 @@
 Quantum Phinance Assignment
 
 NAME: ARVIND GANESH
+
 This is the solution to the assignment from Quantum Phinance Pvt Ltd.
 
 1. Main file is 'loan_charges.cpp', a C++ program which computes charges for each condition, and total charges, for each test case.
+
 2. Data is input at 'input.txt' in the following format. All dates are in format like 1-Jun-20:
   No. of test cases (TC)
   Amount TC1
